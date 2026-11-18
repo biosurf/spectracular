@@ -1,0 +1,5 @@
+laser	channel	lower	upper
+488	FL1	518	548
+488	FL2	565	605
+488	FL3	670	900
+640	FL4	662.5	687.5

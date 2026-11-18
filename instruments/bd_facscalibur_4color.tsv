@@ -1,0 +1,5 @@
+laser	channel	type	lower	upper
+488	FL1	BP	515	545
+488	FL2	BP	564	606
+488	FL3	LP	670	900
+635	FL4	BP	653	669
